@@ -12,4 +12,5 @@ Week 8	:	Concepts of MLE and Logistic regression
 Week 9	:	ROC and Regression Analysis Model Building
 Week 10	:	c2 Test and introduction to cluster analysis
 Week 11	:	Clustering analysis
-Week 12	:	Classification and Regression Trees (CART)
+Week 12	:	Classification and Regression Trees (CART
+
